@@ -29,7 +29,7 @@ function createWindow () {
     slashes: true
   }));
 
-    mainWindow.loadURL('https://tec.citius.usc.es/bigprocessmining/');
+    //mainWindow.loadURL('https://tec.citius.usc.es/bigprocessmining/');
 
   // Open the DevTools.
   mainWindow.webContents.openDevTools()
